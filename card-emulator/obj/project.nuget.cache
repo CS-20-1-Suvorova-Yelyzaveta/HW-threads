@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jJUhZv4SK89gcHmPl902EGFvbkM6JgdQEufXLTjsKfaXrgINpPJb0JIcXzWRc3ZkSRIP0YRvN5vHSXbcscTYtw==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\csharp\\card-emulator\\card-emulator\\card-emulator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\СергеевВладимирАлекс\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

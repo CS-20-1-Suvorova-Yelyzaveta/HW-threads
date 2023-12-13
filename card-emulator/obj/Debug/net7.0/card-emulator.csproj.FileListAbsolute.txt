@@ -1,0 +1,17 @@
+D:\Projects\csharp\card-emulator\card-emulator\bin\Debug\net7.0\card-emulator.exe
+D:\Projects\csharp\card-emulator\card-emulator\bin\Debug\net7.0\card-emulator.deps.json
+D:\Projects\csharp\card-emulator\card-emulator\bin\Debug\net7.0\card-emulator.runtimeconfig.json
+D:\Projects\csharp\card-emulator\card-emulator\bin\Debug\net7.0\card-emulator.dll
+D:\Projects\csharp\card-emulator\card-emulator\bin\Debug\net7.0\card-emulator.pdb
+D:\Projects\csharp\card-emulator\card-emulator\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Projects\csharp\card-emulator\card-emulator\obj\Debug\net7.0\card-emulator.csproj.AssemblyReference.cache
+D:\Projects\csharp\card-emulator\card-emulator\obj\Debug\net7.0\card-emulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\csharp\card-emulator\card-emulator\obj\Debug\net7.0\card-emulator.AssemblyInfoInputs.cache
+D:\Projects\csharp\card-emulator\card-emulator\obj\Debug\net7.0\card-emulator.AssemblyInfo.cs
+D:\Projects\csharp\card-emulator\card-emulator\obj\Debug\net7.0\card-emulator.csproj.CoreCompileInputs.cache
+D:\Projects\csharp\card-emulator\card-emulator\obj\Debug\net7.0\card-emulator.csproj.CopyComplete
+D:\Projects\csharp\card-emulator\card-emulator\obj\Debug\net7.0\card-emulator.dll
+D:\Projects\csharp\card-emulator\card-emulator\obj\Debug\net7.0\refint\card-emulator.dll
+D:\Projects\csharp\card-emulator\card-emulator\obj\Debug\net7.0\card-emulator.pdb
+D:\Projects\csharp\card-emulator\card-emulator\obj\Debug\net7.0\card-emulator.genruntimeconfig.cache
+D:\Projects\csharp\card-emulator\card-emulator\obj\Debug\net7.0\ref\card-emulator.dll
